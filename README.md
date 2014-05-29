@@ -2,8 +2,8 @@ An API endpoint that sends an email when someone submits a POST request with JSO
 
 In the wild: http://nremail.herokuapp.com
 
-```
 Sample payload:
+```
 { "to": "Dave <dave@example.com>", "subject": "hello world", "body": "Hi Dave! Sending you an email via this API I just made." }
 ```
 
